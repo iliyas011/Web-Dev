@@ -23,7 +23,7 @@ body{
   margin: 0 auto;
 }
 
-/* TOPBAR */
+
 .topbar{
   position: sticky;
   top:0;
@@ -98,7 +98,7 @@ body{
   opacity:.7;
 }
 
-/* BUTTONS */
+
 .btn{
   display:inline-flex;
   align-items:center;
@@ -127,7 +127,7 @@ body{
   border-color: var(--line);
 }
 
-/* HERO */
+
 .hero{
   padding: 70px 0 50px;
   background: radial-gradient(1200px 600px at 50% 0%, rgba(0,0,0,.06), transparent 60%);
@@ -154,7 +154,7 @@ body{
   border-radius: 14px;
 }
 
-/* PRICING */
+
 .pricing{
   padding: 30px 0 60px;
   background: radial-gradient(1000px 600px at 50% 100%, rgba(0,0,0,.07), transparent 60%);
@@ -248,7 +248,7 @@ body{
   opacity:.8;
 }
 
-/* add-ons inside plan */
+
 .plan__addons{
   padding: 14px 22px 20px;
   border-top: 1px solid var(--line);
